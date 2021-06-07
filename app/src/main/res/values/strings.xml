@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Projet Eveil</string>
+    <string name="tips_title">Chargement de l\'application...</string>
+    <string name="go">Go</string>
+    <string-array name="eco_ips">
+        <item>Acheter une gourde en inox / verre ou plastique sans BPA</item>
+        <item>Utiliser un oriculi (à la place des cotons tiges.)</item>
+        <item>Laver le linge à basse température (30° ou 40° max.)</item>
+        <item>Refuser les échantillons gratuits</item>
+        <item>Mettre un filtre lavable dans la cafetière</item>
+        <item>Arrêter d\'utiliser assiettes, gobeletes, couverts et serviettes jetables</item>
+        <item>Arrêter l\'eau quand on se lave les mains</item>
+        <item>Acheter des fruits et légumes de saisons</item>
+    </string-array>
+    <string name="co2_text">⌛ Podométre activé depuis %1$s. \nVous avez économisé %2$sg de CO² 💧 \nPar rapport à un trajet en voiture</string>
+    <string name="invisible_text">Texte invisible</string>
+    <string name="date">%1$dh %2$d</string>
+</resources>
